@@ -1,6 +1,0 @@
-pyproject.toml
-.venv/
-__pycache__/
-.env
-.idea/
-*.pyc
